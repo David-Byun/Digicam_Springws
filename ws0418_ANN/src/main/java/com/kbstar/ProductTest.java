@@ -15,5 +15,9 @@ public class ProductTest {
 
         ProductDTO product = new ProductDTO("Amazon", 300, 20);
         service.register(product);
+        service.modify(product);
+        service.remove(product.getName());
+        service.get(product.getName());
+        service.get();
     }
 }

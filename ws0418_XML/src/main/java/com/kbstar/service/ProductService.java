@@ -37,11 +37,11 @@ public class ProductService implements MyService<String, ProductDTO> {
 
     @Override
     public List<ProductDTO> get() {
-        return null;
+        return dao.select();
     }
 
     @Override
     public void modify(ProductDTO productDTO) {
-
+        dao.update(productDTO);
     }
 }
