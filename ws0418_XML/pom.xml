@@ -10,7 +10,7 @@
     </parent>
 
     <groupId>com.kbstar</groupId>
-    <artifactId>ws0418</artifactId>
+    <artifactId>ws0418_XML</artifactId>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>

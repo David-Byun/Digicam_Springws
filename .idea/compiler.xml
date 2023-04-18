@@ -6,7 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Digicam_Springws" />
+        <module name="ws0418_ANN" />
+        <module name="ws0418_XML" />
       </profile>
     </annotationProcessing>
   </component>
