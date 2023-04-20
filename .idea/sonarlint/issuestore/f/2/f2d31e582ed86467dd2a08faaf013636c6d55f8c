@@ -1,0 +1,15 @@
+
+D
+java:S1481"(Remove this unused "arg" local variable.(Ñäãz8¼üÜšù0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ë‰ë 8½üÜšù0
+]	java:S125"<This block of commented-out lines of code should be removed.(ö©«äøÿÿÿÿ8¾üÜšù0
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(÷–êÙ8¿üÜšù0
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ÀüÜšù0
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(å¬ìº8ÁüÜšù0
+`
+java:S1128">Remove this unused import 'org.aspectj.lang.annotation.After'.(§±•Ãùÿÿÿÿ8ÁüÜšù0
+c
+java:S1128	"GRemove this unused import 'org.aspectj.lang.annotation.AfterReturning'.(Ún8ÁüÜšù0
+h
+java:S1128
+"FRemove this unused import 'org.aspectj.lang.annotation.AfterThrowing'.(‹™Şøÿÿÿÿ8ÄüÜšù0

@@ -1,0 +1,8 @@
+
+=
+java:S1481"(Remove this unused "arg" local variable.(Ñäãz
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ë‰ë 
+V	java:S125"<This block of commented-out lines of code should be removed.(ö©«äøÿÿÿÿ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(÷–êÙ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(ÆÀûý
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(å¬ìº
